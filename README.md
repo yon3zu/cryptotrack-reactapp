@@ -8,7 +8,7 @@ A Crypto Tracker project buit with React, Redux, Chakra UI and CryptoApi. Get th
 
 ### Live Demo
 
-https://react-crypto-tkr.web.app/
+https://crypto.urbayz.com/
 
 ### Screenshots
 

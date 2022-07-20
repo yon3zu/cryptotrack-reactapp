@@ -28,13 +28,9 @@ https://crypto.urbayz.com/
 ### Installation
 
 ```
-git clone https://github.com/hourmeng12/crypto-tracker
+git clone https://github.com/yon3zu/cryptotrack-reactapp
 
 npm install
 
 npm start / npm run build
 ```
-
-### Meta
-
-Hourmeng Khy
